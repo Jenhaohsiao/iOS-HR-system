@@ -1,0 +1,141 @@
+
+/* Class = "UILabel"; text = "Make"; ObjectID = "1bQ-U3-1gQ"; */
+"1bQ-U3-1gQ.text" = "Make";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "26Q-vb-Dma"; */
+"26Q-vb-Dma.text" = "Type";
+
+/* Class = "UINavigationItem"; title = "Employees' Payroll"; ObjectID = "34q-34-1L2"; */
+"34q-34-1L2.title" = "Employees' Payroll";
+
+/* Class = "UIBarButtonItem"; title = "Payroll"; ObjectID = "3ME-p5-m5n"; */
+"3ME-p5-m5n.title" = "Payroll";
+
+/* Class = "UILabel"; text = "Earn"; ObjectID = "786-OU-tLo"; */
+"786-OU-tLo.text" = "Earn";
+
+/* Class = "UILabel"; text = "country name"; ObjectID = "7QI-Ng-SdC"; */
+"7QI-Ng-SdC.text" = "country name";
+
+/* Class = "UINavigationItem"; title = "Employee"; ObjectID = "7xm-g7-O7o"; */
+"7xm-g7-O7o.title" = "Employee";
+
+/* Class = "UILabel"; text = "Plate"; ObjectID = "8Oo-pu-JsH"; */
+"8Oo-pu-JsH.text" = "Plate";
+
+/* Class = "UILabel"; text = "9999"; ObjectID = "Ama-gm-aww"; */
+"Ama-gm-aww.text" = "9999";
+
+/* Class = "UILabel"; text = "Members"; ObjectID = "DAN-2I-HJ2"; */
+"DAN-2I-HJ2.text" = "Members";
+
+/* Class = "UILabel"; text = "No vehicle"; ObjectID = "FdD-LZ-uFj"; */
+"FdD-LZ-uFj.text" = "No vehicle";
+
+/* Class = "UILabel"; text = "ITEM01"; ObjectID = "G6I-XZ-Qxf"; */
+"G6I-XZ-Qxf.text" = "ITEM01";
+
+/* Class = "UILabel"; text = "Country:"; ObjectID = "Hfr-Sb-dfC"; */
+"Hfr-Sb-dfC.text" = "Country:";
+
+/* Class = "UILabel"; text = "Members"; ObjectID = "JTu-cC-wDi"; */
+"JTu-cC-wDi.text" = "Members";
+
+/* Class = "UILabel"; text = "SubTotal"; ObjectID = "LxQ-RU-W52"; */
+"LxQ-RU-W52.text" = "SubTotal";
+
+/* Class = "UILabel"; text = "Birthday"; ObjectID = "Lzy-LY-F6C"; */
+"Lzy-LY-F6C.text" = "Birthday";
+
+/* Class = "UILabel"; text = "SubTotal"; ObjectID = "MGf-Kz-abh"; */
+"MGf-Kz-abh.text" = "SubTotal";
+
+/* Class = "UILabel"; text = "SubTotal"; ObjectID = "PrE-Vj-sgW"; */
+"PrE-Vj-sgW.text" = "SubTotal";
+
+/* Class = "UILabel"; text = "Part Time"; ObjectID = "S63-vO-T7G"; */
+"S63-vO-T7G.text" = "Part Time";
+
+/* Class = "UILabel"; text = "ITEM02"; ObjectID = "VQe-Tv-viQ"; */
+"VQe-Tv-viQ.text" = "ITEM02";
+
+/* Class = "UILabel"; text = "9999"; ObjectID = "VrC-5Q-fUz"; */
+"VrC-5Q-fUz.text" = "9999";
+
+/* Class = "UINavigationItem"; title = "List"; ObjectID = "Wsi-rD-jXV"; */
+"Wsi-rD-jXV.title" = "List";
+
+/* Class = "UILabel"; text = "TOTAL"; ObjectID = "bhS-iY-24k"; */
+"bhS-iY-24k.text" = "TOTAL";
+
+/* Class = "UILabel"; text = "Members"; ObjectID = "ciR-Yh-qtT"; */
+"ciR-Yh-qtT.text" = "Members";
+
+/* Class = "UILabel"; text = "Earn:"; ObjectID = "eQ9-dk-8dB"; */
+"eQ9-dk-8dB.text" = "Earn:";
+
+/* Class = "UILabel"; text = "9999"; ObjectID = "eT9-bd-tfW"; */
+"eT9-bd-tfW.text" = "9999";
+
+/* Class = "UILabel"; text = "Vehicle"; ObjectID = "g0y-zo-6H1"; */
+"g0y-zo-6H1.text" = "Vehicle";
+
+/* Class = "UITextField"; placeholder = "Ex: Alex"; ObjectID = "gby-uu-sJO"; */
+"gby-uu-sJO.placeholder" = "Ex: Alex";
+
+/* Class = "UILabel"; text = "Intern"; ObjectID = "i6L-Fw-ulU"; */
+"i6L-Fw-ulU.text" = "Intern";
+
+/* Class = "UILabel"; text = "Car"; ObjectID = "iSA-4W-jdW"; */
+"iSA-4W-jdW.text" = "Car";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "iVp-M0-RM6"; */
+"iVp-M0-RM6.normalTitle" = "Select";
+
+/* Class = "UISegmentedControl"; laU-l0-vEf.segmentTitles[0] = "Full Time"; ObjectID = "laU-l0-vEf"; */
+"laU-l0-vEf.segmentTitles[0]" = "Full Time";
+
+/* Class = "UISegmentedControl"; laU-l0-vEf.segmentTitles[1] = "Part Time"; ObjectID = "laU-l0-vEf"; */
+"laU-l0-vEf.segmentTitles[1]" = "Part Time";
+
+/* Class = "UISegmentedControl"; laU-l0-vEf.segmentTitles[2] = "Intern"; ObjectID = "laU-l0-vEf"; */
+"laU-l0-vEf.segmentTitles[2]" = "Intern";
+
+/* Class = "UITextField"; placeholder = "Ex: Alex"; ObjectID = "m2x-4Z-har"; */
+"m2x-4Z-har.placeholder" = "Ex: Alex";
+
+/* Class = "UILabel"; text = "123"; ObjectID = "n0A-A0-p4O"; */
+"n0A-A0-p4O.text" = "123";
+
+/* Class = "UILabel"; text = "123"; ObjectID = "nVf-Y3-mtb"; */
+"nVf-Y3-mtb.text" = "123";
+
+/* Class = "UILabel"; text = "Age:"; ObjectID = "nbm-Sq-NHX"; */
+"nbm-Sq-NHX.text" = "Age:";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "qDh-Rj-ooi"; */
+"qDh-Rj-ooi.text" = "Name";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "qlK-WR-0dR"; */
+"qlK-WR-0dR.text" = "Name";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "rAE-tB-Kwv"; */
+"rAE-tB-Kwv.text" = "Country";
+
+/* Class = "UILabel"; text = "Full Time"; ObjectID = "sYq-3C-qMV"; */
+"sYq-3C-qMV.text" = "Full Time";
+
+/* Class = "UILabel"; text = "123"; ObjectID = "sv1-Fr-8RY"; */
+"sv1-Fr-8RY.text" = "123";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "tKK-Bz-EZu"; */
+"tKK-Bz-EZu.text" = "Age";
+
+/* Class = "UILabel"; text = "9999"; ObjectID = "uQe-CX-azv"; */
+"uQe-CX-azv.text" = "9999";
+
+/* Class = "UIButton"; normalTitle = "Select "; ObjectID = "vPv-vL-PVP"; */
+"vPv-vL-PVP.normalTitle" = "Select ";
+
+/* Class = "UILabel"; text = "Age:"; ObjectID = "x6W-D8-Uke"; */
+"x6W-D8-Uke.text" = "Age:";
