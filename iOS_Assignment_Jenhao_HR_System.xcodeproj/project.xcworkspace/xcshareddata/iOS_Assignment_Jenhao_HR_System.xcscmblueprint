@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C3D18FA907350F39EF1088A7F9BC487B2C6E0178",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C3D18FA907350F39EF1088A7F9BC487B2C6E0178" : 9223372036854775807,
+    "4B9B21BD5CFFD2513FC275E98FDFD084D50EBF2D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A2FD77D1-5D93-4904-A3B6-A8C51B5CF4BC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C3D18FA907350F39EF1088A7F9BC487B2C6E0178" : "iOS-HR-system\/",
+    "4B9B21BD5CFFD2513FC275E98FDFD084D50EBF2D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iOS_Assignment_Jenhao_HR_System",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iOS_Assignment_Jenhao_HR_System.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Jenhaohsiao\/iOS_HR_System.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4B9B21BD5CFFD2513FC275E98FDFD084D50EBF2D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Jenhaohsiao\/iOS-HR-system.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C3D18FA907350F39EF1088A7F9BC487B2C6E0178"
+    }
+  ]
+}

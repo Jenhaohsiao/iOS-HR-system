@@ -74,16 +74,11 @@ class ListAllViewController: UIViewController , UITableViewDataSource, UITableVi
         
         EmpRearchController.searchBar.barTintColor = UIColor.white
 
-
-
-
     }
 
-
-
     func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
-        if tableView == self.tableViewList{
 
+        if tableView == self.tableViewList{
             return 70
 
         } else {
